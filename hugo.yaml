@@ -8,3 +8,5 @@ menu:
     - name: Documentation
       pageRef: /docs
       weight: 1
+    - name: Me on GitHub
+      url: "https://github.com/jalim"
