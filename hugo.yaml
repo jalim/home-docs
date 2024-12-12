@@ -1,7 +1,7 @@
 baseURL: 'https://www.lumu.au/'
 languageCode: 'en-us'
 title: 'Luke Mullan'
-theme: 'hextra'
+theme: 'ananke'
 
 menu:
   main:
